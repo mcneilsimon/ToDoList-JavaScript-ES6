@@ -4,4 +4,5 @@ so that when ever the application is refreshed, or closed and then re-opened, al
 When changing the window screen size, the web page will also automatically re adjust to its appropriate sizes.
 
 Below is a video demo of what the web page does
+
 https://youtu.be/WYo0O0IY_JY
